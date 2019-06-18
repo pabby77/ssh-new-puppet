@@ -1,0 +1,15 @@
+{
+  "name": "pabby555-ssh",
+  "version": "0.1.0",
+  "author": "Tina Ebimami <tina.ebimami@yahoo.com>",
+  "summary": "This module will manage ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/pabby77/ssh-new-puppet",
+  "project_page": "https://github.com/pabby77/ssh-new-puppet",
+  "issues_url": "https://github.com/pabby77/ssh-new-puppet/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
